@@ -1,2 +1,2 @@
 # chocolate-sales-analysis
-A brief exploratory data analysis of chocolate sales using Python to uncover trends, patterns, and insights for better business decisions.
+This project involves a detailed exploratory data analysis of a Chocolate Sales dataset to uncover key insights, trends, and patterns in sales performance.
